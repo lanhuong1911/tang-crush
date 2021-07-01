@@ -1,4 +1,11 @@
 const CONFIG = {
+    <!doctype html>
+<html lang="en">
+  <head>
+    <title>Crussssh</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     introTitle: 'Bae à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -15,4 +22,4 @@ const CONFIG = {
     mess: 'Chị biết mà 🥰. Iu em nhiều nhiều 😘😘',
     messDesc: 'Trà sữa hay trà đào mà trà nào chả ở quán. Mai đi chơi nhé bae',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100053308489867/' //
+  
