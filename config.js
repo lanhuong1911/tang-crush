@@ -1,4 +1,4 @@
-const CONFIG = {Crusssh}
+const CONFIG = {
     introTitle: 'Bae à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -15,4 +15,4 @@ const CONFIG = {Crusssh}
     mess: 'Chị biết mà 🥰. Iu em nhiều nhiều 😘😘',
     messDesc: 'Trà sữa hay trà đào mà trà nào chả ở quán. Mai đi chơi nhé bae',
     btnAccept: 'Okiiiii lun <3',
-  
+  messLink: 'https://www.facebook.com/halanhuongxq'
