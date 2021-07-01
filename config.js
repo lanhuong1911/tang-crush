@@ -1,11 +1,4 @@
 const CONFIG = {
-    <!doctype html>
-<html lang="en">
-  <head>
-    <title>Crussssh</title>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     introTitle: 'Bae à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
